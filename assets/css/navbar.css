@@ -2,6 +2,8 @@ nav {
   display: block;
   background-color: #D9D5F8;
   padding: 5px;
+  font-family: Lucida Grande;
+  font-size: 1.6em; 
 }
 
 ul {
@@ -12,4 +14,8 @@ ul {
 
 li {
   display: inline;
+}
+
+nav li a {
+  color: #575658; 
 }
