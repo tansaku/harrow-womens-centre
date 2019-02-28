@@ -1,7 +1,7 @@
 nav	{
+	width: 100%;
 	display: block;
 	background-color: #D9D5F8;
-	/*padding-top: 5px;*/
 	padding: 5px;
 	font-family: Lucida Grande;
 	font-size: 1.6em;
@@ -9,16 +9,12 @@ nav	{
 
 ul {
 	list-style-type: none;
-	/*margin: 0;*/
-	/*padding: 5px;*/
-	/*float: right;*/
-	/*overflow: hidden;*/
-	/*top: 0;*/
-	margin: 0 10 0 10;
+	margin: 0 10% 0 10%;
 }
 
 li {
 	display: inline;
+	margin-right: 10px;
 }
 
 /*li.nav__right*/
@@ -28,7 +24,6 @@ li {
 
 li a {
 	color: #575658; 
-	/*text-align: center;*/
 	text-decoration: none;
 }
 

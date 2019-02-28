@@ -4,18 +4,19 @@ header {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 0 10 0 10;
+/*	padding: 0 10 0 10;*/
 }
 
 .header__branding {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	margin: 0 10% 0 10%;
 }
 
 .header__logo {
 	width: 50px;
-	margin-right: 20px;
+	/*margin-right: 20px;*/
 }
 
 .header__headline {
