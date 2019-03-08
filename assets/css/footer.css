@@ -1,0 +1,18 @@
+footer {
+	background-color: #9382ee7a;
+	height: 200px;
+}
+
+.contact__tel {
+	float: left;
+}
+
+.contact__reachus{
+	float:	right;
+}
+
+
+/*<h1 class="header__headline">HARROW WOMEN'S CENTRE</h1>
+<p class="contact__address">Andrews Close, Off Bessborough Road, Harrow,HA1 3GE</p>
+<p class="contact__tel">Call us: 020 8422 1100</p>
+<p class="contact__reachus">How to reach us</p>*/

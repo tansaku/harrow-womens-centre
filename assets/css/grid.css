@@ -1,0 +1,35 @@
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	grid-gap: 10px;
+	height: 600px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.events {
+	background-color: lightgreen;
+	grid-row: 1 / span 2;
+	/*grid-area: 1 / 1 / span 1 / span 2;*/
+}
+
+.councelling {
+	background-color: maroon;
+}
+
+.advice {
+	background-color: grey;
+}
+
+.volunteer {
+	background-color: #8C528C;
+}
+
+.donate {
+	background-color: orange;
+}
+
+.box {
+		border-radius: 5px;
+}

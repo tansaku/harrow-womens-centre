@@ -22,11 +22,11 @@ li {
 	float: right;
 }
 
-li a {
+nav li a {
 	color: #575658; 
 	text-decoration: none;
 }
 
-li a:hover {
+nav li a:hover {
 	text-decoration: underline;
 }
