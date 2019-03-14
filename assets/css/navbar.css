@@ -3,8 +3,9 @@ nav	{
 	display: block;
 	background-color: #D9D5F8;
 	padding: 5px;
-	font-family: Lucida Grande;
+	/*font-family: Lucida Grande;*/
 	font-size: 1.6em;
+	/*height: 25px;*/
 }
 
 ul {
@@ -15,7 +16,12 @@ ul {
 li {
 	display: inline;
 	margin-right: 10px;
+/*	float: left;*/
 }
+
+/*.nav__left {
+	float: left;
+}*/
 
 /*li.nav__right*/
 .nav__right {
