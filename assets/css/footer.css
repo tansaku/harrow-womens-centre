@@ -1,8 +1,21 @@
 footer {
-	background-color: #9382ee7a;
+	background-color: #D9D5F8;
 	height: 200px;
+	padding: 10px;	
 }
 
+.contact {
+	color: #575658; 
+	padding: 10px;
+}
+
+h1.header__headline {
+	color: #575658; 
+}
+
+.contact__address {
+	padding: 10px;
+}
 .contact__tel {
 	float: left;
 }
