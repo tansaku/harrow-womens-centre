@@ -8,17 +8,6 @@ nav	{
 	/*height: 25px;*/
 }
 
-ul {
-	list-style-type: none;
-	margin: 0 10% 0 10%;
-}
-
-li {
-	display: inline;
-	margin-right: 10px;
-/*	float: left;*/
-}
-
 /*.nav__left {
 	float: left;
 }*/
